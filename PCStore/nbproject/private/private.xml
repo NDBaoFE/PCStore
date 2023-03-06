@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/Customer.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/db/EmployeeFacade.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/db/ProductFacade.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/web/WEB-INF/views/product/filter.jsp</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/OrderHeader.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/db/AccountFacade.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/Product.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/db/BrandFacade.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/db/DBContext.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/web/WEB-INF/views/product/index.jsp</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/Account.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/OrderDetail.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/Images.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/Employee.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/models/Brand.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/src/java/db/CustomerFacade.java</file>
+            <file>file:/C:/Users/Administrator/Downloads/PCStore/web/WEB-INF/views/product/feature.jsp</file>
+        </group>
+    </open-files>
+</project-private>
